@@ -1,4 +1,4 @@
-Hey! 👋 My name is Matt. I'm a 🤓 nerd, 🎮 gamer, 🧑‍💻 software engineer, 🎨 martial artist. I play games and occasionally try making one.
+Hey! 👋 My name is Matt. I'm a 🤓 nerd, 🎮 gamer, 👨‍💻 software engineer, 🎨 martial artist. I play games and occasionally try making one.
 
 I am a full-stack software engineer and a site reliability engineer with a focus on building tools and services that are resilient, scalable, and ideally easy to develop and operate. My focus is making the lives of others easier through my efforts. Plus I get to solve some really hard problems sometimes, both technical and not, and collaborate with others so win-win!
 
